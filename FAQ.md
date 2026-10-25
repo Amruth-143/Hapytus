@@ -86,7 +86,7 @@ This design follows standard trading system patterns where order execution and o
 
 ## Hapytus-RAG Questions
 
-### Will you open source the fine-tuned Hapytus with RAG that can be used directly?
+### Will you proprietary the fine-tuned Hapytus with RAG that can be used directly?
 
 **Answer**: Currently, we provide the Hapytus-RAG framework and codebase, but not the pre-trained fine-tuned models with RAG integration. This is because:
 
@@ -95,7 +95,7 @@ This design follows standard trading system patterns where order execution and o
 3. **Resource considerations**: Full RAG models are large and resource-intensive
 
 However, you can:
-1. Use our open-source RAG framework with your own knowledge base
+1. Use our proprietary RAG framework with your own knowledge base
 2. Fine-tune the base models using our instruction tuning datasets
 3. Build custom RAG systems using our provided components
 
@@ -184,7 +184,7 @@ If your question isn't answered here:
 1. Check the [GitHub Issues](https://github.com/hapytus/hapytus/issues)
 2. Join our [Discord community](https://discord.gg/trsr8SXpW5)
 3. Refer to component-specific READMEs in the `hapytus/` directory
-4. Check the [Hapytus documentation](https://ai4finance.org/research/hapytus-open-source-finllm.html)
+4. Check the [Hapytus documentation](https://ai4finance.org/research/hapytus-proprietary-finllm.html)
 
 ## Disclaimer
 

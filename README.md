@@ -1,14 +1,12 @@
 <div align="center">
 
-# ⚡ Hapytus: Open-Source Financial AI & Portfolio Platform
+# ⚡ Hapytus: Financial AI & Portfolio Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-blue.svg)](#-license)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/downloads/)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Hapytus%20Models-yellow)](https://huggingface.co/Hapytus)
 [![Framework](https://img.shields.io/badge/Framework-LoRA%20%2B%20PEFT-purple.svg)](https://github.com/hapytus/hapytus)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/hapytus/hapytus/pulls)
 
-**Hapytus** democratizes financial intelligence by combining state-of-the-art open-source Financial Large Language Models (FinLLMs) with a modern multi-market investment tracking and risk intelligence platform.
+**Hapytus** delivers advanced financial intelligence by combining state-of-the-art Financial Large Language Models (FinLLMs) with a modern multi-market investment tracking and risk intelligence platform.
 
 [Features](#-key-features) • [Application Screenshots](#-application-preview) • [Architecture](#-architecture) • [Quick Start](#-quick-start) • [Model Zoo](#-hapytus-model-zoo) • [Project Structure](#-project-structure)
 
@@ -24,7 +22,7 @@ Hapytus features a modern dark-themed web platform for multi-market investment p
 > Track total portfolio valuation, net profit & loss, green glowing asset momentum spline, current holdings, and automated price volatility alerts.
 
 <div align="center">
-  <img src="docs/images/portfolio_overview.png" alt="Portfolio Overview Dashboard" width="92%" />
+  <img src="./docs/images/portfolio_overview.png" alt="Portfolio Overview Dashboard" width="100%" />
 </div>
 
 * **Total Portfolio Valuation**: Instant multi-asset rollup (`₹ 81,448` total value with net positive P&L `+ ₹ 2,648 (+3.36%)`).
@@ -38,7 +36,7 @@ Hapytus features a modern dark-themed web platform for multi-market investment p
 > Comprehensive audit of all recorded investments across asset classes, purchase dates, unit costs, and individual P&L performance.
 
 <div align="center">
-  <img src="docs/images/portfolio_holdings.png" alt="Portfolio Holdings Ledger" width="92%" />
+  <img src="./docs/images/portfolio_holdings.png" alt="Portfolio Holdings Ledger" width="100%" />
 </div>
 
 * **Cross-Market Coverage**: Seamlessly track Crypto (Bitcoin, Ethereum), US Equities (Apple, NVIDIA), and Indian Equities (Reliance Industries, TCS, HDFC Bank).
@@ -50,7 +48,7 @@ Hapytus features a modern dark-themed web platform for multi-market investment p
 > Record new investment entries with automatic market classification, unit price calculations, and instantaneous portfolio rebalancing.
 
 <div align="center">
-  <img src="docs/images/add_investment.png" alt="Add Investment Screen" width="85%" />
+  <img src="./docs/images/add_investment.png" alt="Add Investment Screen" width="90%" />
 </div>
 
 * **Streamlined Logging**: Rapid dropdown selectors for Market (`Crypto`, `US Stock`, `Indian Stock`) and specific Tickers.
@@ -198,8 +196,9 @@ Contributions to **Hapytus** are welcomed! Whether improving model weights, addi
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+Copyright © 2026 Hapytus. All rights reserved. Proprietary software.
+Unauthorized copying, modification, distribution, or reproduction of this software via any medium is strictly prohibited.
 
 <div align="center">
-  <sub>Built with ❤️ by the Hapytus Open-Source Community</sub>
+  <sub>Built with ❤️ by the Hapytus Engineering Team</sub>
 </div>

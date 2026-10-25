@@ -15,15 +15,15 @@ setup(
     author="Bruce Yang",
     author_email="hy2500@columbia.edu",
     url="https://github.com/hapytus/hapytus",
-    license="MIT",
+    license="Proprietary",
     packages=find_packages(),
     install_requires=REQUIRES,
-    description="Hapytus",
-    long_description="""Hapytus""",
+    description="Hapytus: Financial AI & Autonomous Portfolio Intelligence Platform",
+    long_description="""Hapytus: Financial AI & Autonomous Portfolio Intelligence Platform""",
     classifiers=[
         # Trove classifiers
         # Full list: https://pypi.python.org/pypi?%3Aaction=list_classifiers
-        "License :: OSI Approved :: MIT License",
+        "License :: Other/Proprietary License",
         "Programming Language :: Python",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",

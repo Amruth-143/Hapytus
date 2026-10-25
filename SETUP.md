@@ -576,7 +576,7 @@ If you encounter issues not covered here:
 1. Check the [GitHub Issues](https://github.com/hapytus/hapytus/issues)
 2. Join the [Discord community](https://discord.gg/trsr8SXpW5)
 3. Refer to specific component READMEs in the `hapytus/` directory
-4. Check the [Hapytus documentation](https://ai4finance.org/research/hapytus-open-source-finllm.html)
+4. Check the [Hapytus documentation](https://ai4finance.org/research/hapytus-proprietary-finllm.html)
 
 ## Additional Resources
 

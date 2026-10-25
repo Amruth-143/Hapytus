@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Hapytus — High-Performance Financial AI Server & Frontend Host
-Bridges the Hapytus Open-Source Financial LLM models with the Web UI.
+Bridges the Hapytus Financial LLM models with the Web UI.
 """
 
 import os
